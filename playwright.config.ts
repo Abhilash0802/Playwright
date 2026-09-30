@@ -70,7 +70,6 @@ export default defineConfig({
        channel: 'chrome',
       },
      },
-
      
   ],
 

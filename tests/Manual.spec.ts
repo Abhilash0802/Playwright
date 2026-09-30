@@ -10,7 +10,6 @@ test("title", async({page}) => {
 
 // Step 1 : Navigate to URL
 // Step 2 : Verify thr title of the page
-
 })
 
 */

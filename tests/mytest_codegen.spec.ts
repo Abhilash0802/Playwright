@@ -11,4 +11,4 @@ test('test', async ({ page }) => {
   await page.getByRole('textbox', { name: 'Last name:' }).click();
   await page.getByRole('textbox', { name: 'Email:' }).click();
   await page.getByRole('textbox', { name: 'Password:', exact: true }).click();
-});
+})
