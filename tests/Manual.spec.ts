@@ -19,5 +19,6 @@ test("Verify the title of the page", async({page}) => {
     await page.goto("https://demowebshop.tricentis.com/");
     await expect(page).toHaveTitle("Demo Web Shop")
 
+    
 })
 
