@@ -101,11 +101,4 @@ await expect(page.getByTitle('Home page link')).toHaveText('Home')
 await page.getByTitle('Home page link').click()
 
 
-
-
-
-
-
-
-
 })
